@@ -9,7 +9,7 @@
 </div> -->
 <div align="center">
   <a href="https://github.com/mariandr4de">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mariandr4de&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=savioayres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   <img width="40%" src="https://user-images.githubusercontent.com/104591781/187047493-10403500-d148-4a38-8cd4-6c1e40db1452.svg"/>
 </div> 
 <div align="center" style="display: inline_block"><br>
@@ -38,10 +38,10 @@
  
 <div align="center"> 
 
-  ![Snake animation](https://github.com/mariandr4de/mariandr4de/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mariandr4de/savioayres/blob/output/github-contribution-grid-snake.svg)
 
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mariandrade8115@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:savioayres@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariandr4de/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
