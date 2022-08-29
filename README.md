@@ -7,7 +7,7 @@
 🌱 Atualmente estou aprendendo **Node.js e Typescript**<br>:blush: &nbsp;<bro>
 Posso te ajudar com **CSS, Html, JavaScript, React**<br>
 💬&nbsp; Sobre mim: Curto tecnologia e games<br>
-:email: &nbsp; contact me: <br>
+:email: &nbsp; Entre em contato comigo: <br>
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savioayres/)](https://www.linkedin.com/in/savioayres/)
  [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:savioayres@hotmail.com)](mailto:savioayres@hotmail.com)
 </div>
