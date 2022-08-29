@@ -3,21 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savioayres&label=Profile%20views&color=0e75b6&style=flat" alt="savioayres" /> </p>
 
-
-
-- 🌱 Atualmente estou aprendendo **Node.js e Typescript**
-
-- 💬Posso te ajudar com **CSS, Html, JavaScript, React**
-
-- 📫 Entre em contato comigo: **savioayres@hotmail.com**
-
-<h3 align="left">Conecte-se comigo::</h3>
-<div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+:purple_heart:&nbsp; Buscando colaborar com projetos em Front-end usando React<br>
+🌱 Atualmente estou aprendendo **Node.js e Typescript**<br>:blush: &nbsp;<bro>
+Posso te ajudar com **CSS, Html, JavaScript, React**<br>
+💬&nbsp; Sobre mim: Curto tecnologia e games<br>
+:email: &nbsp; contact me: <br>
+ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savioayres/)](https://www.linkedin.com/in/savioayres/)
+ [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:savioayres@hotmail.com)](mailto:savioayres@hotmail.com)
 </div>
 <br>
  <div style="display:flex">
