@@ -1,13 +1,14 @@
 <h1 align="left">Sávio Ayres</h1>
 
+## Bem vindos ao meu Workspace!👋
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savioayres&label=Profile%20views&color=0e75b6&style=flat" alt="savioayres" /> </p>
 
-:purple_heart:&nbsp; Buscando colaborar com projetos em Front-end usando React<br>
-🌱 Atualmente estou aprendendo **Node.js e Typescript**<br>:blush: &nbsp;<bro>
-Posso te ajudar com **CSS, Html, JavaScript, React**<br>
+:purple_heart:&nbsp; Buscando colaborar com projetos em Front-end usando React <br>
+🌱 Atualmente estou aprendendo **Node.js e Typescript**<br>:blush: &nbsp;<bro>Posso te ajudar com **CSS, Html, JavaScript, React**<br>
 💬&nbsp; Sobre mim: Curto tecnologia e games<br>
-:email: &nbsp; Entre em contato comigo: <br>
+:email: &nbsp;Entre em contato comigo: <br>
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savioayres/)](https://www.linkedin.com/in/savioayres/)
  [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:savioayres@hotmail.com)](mailto:savioayres@hotmail.com)
 </div>
